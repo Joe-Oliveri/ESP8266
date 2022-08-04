@@ -1,4 +1,3 @@
-// Fourth Project from "Home Automation with the ESP8266"
 // Web Server w/ Button Control
 // w/ Auto-Reconnect
 // B: Extra Button
