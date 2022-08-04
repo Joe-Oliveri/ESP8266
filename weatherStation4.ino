@@ -1,4 +1,3 @@
-//Third Project from "Home Automation with the ESP8266"
 //Web Server Weather Station w/ DHT11 Module
 //And OpenWeatherAPI
 //w/ Auto-Reconnect
