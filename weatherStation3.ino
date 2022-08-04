@@ -11,10 +11,10 @@
 
 DHT dht(DHTPIN, DHTTYPE, 15);
 
-const char* ssid = "Vincent LAN Gogh";
-const char* password = "Acidburn1";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
-//String APIKEY = "07f5b7fcfa144b0eba32d2b317203b76";
+//String APIKEY = "xxxxxxxxxxxxxxxx";
 
 WiFiServer server(80);
 
