@@ -10,8 +10,8 @@
 
 DHT dht(DHTPIN, DHTTYPE, 15);
 
-const char* ssid = "Vincent LAN Gogh";
-const char* password = "Acidburn1";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 WiFiServer server(80);
 
